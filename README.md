@@ -34,7 +34,7 @@ Com base nas personas, desenvolvemos diferentes jornadas de uso, com destaque pa
 
 - **Frontend**: HTML5 + CSS3 + JS e React JS
 - **Backend**: Node.js + Express.js
-- **Banco de Dados**: Em desenvolvimento
+- **Banco de Dados**: SQLite3
 - **Integração com Chatbot de IA**: Planejado para versão futura
 
 ## <img src="https://img.icons8.com/ios-filled/50/FFFFFF/video.png" width="30" alt="ícone de vídeo branco"/> Prova de Conceito
